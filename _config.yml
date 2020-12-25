@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "I am a 4-th year undergrad student in the school of computer science and engineering, Sun Yat-sen University."
   location         : "Guangzhou, China"
-  links :
-    - label : "cv"
-      icon : "fas fa-alien"
-      url : "http://lzhengisme.github.io/files/cv_linzheng_dec2020.pdf"
+  links:
+  - label: "CV"
+    icon: "fas fa-alien"
+    url: "http://lzhengisme.github.io/files/cv_linzheng_dec2020.pdf"
   employer         :
   pubmed           : 
   googlescholar    : 
