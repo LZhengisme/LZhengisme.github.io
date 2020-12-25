@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Lin Zheng"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Lin Zheng"
 description              : &description "personal description"
 url                      : https://lzhengisme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lin Zheng"
-  avatar           : "profile.png"
+  avatar           : "/files/imgs/profile.png"
   bio              : "An undergrad in the School of Computer Science and Engineering, Sun Yat-sen University."
   location         : "Guangzhou, China"
-  links:
-  - label: "CV"
-    icon: "fas fa-alien"
-    url: "http://lzhengisme.github.io/files/cv_linzheng_dec2020.pdf"
+  # links:
+  # - label: "CV"
+  #   icon: "fas fa-alien"
+  #   url: "http://lzhengisme.github.io/files/cv_linzheng_dec2020.pdf"
   employer         :
   pubmed           : 
   googlescholar    : 
