@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lin Zheng"
-  avatar           : "/files/imgs/profile.png"
+  avatar           : "profile.png"
   bio              : "An undergrad in the School of Computer Science and Engineering, Sun Yat-sen University."
   location         : "Guangzhou, China"
   # links:
