@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin Zheng"
+title                    : "Website"
 title_separator          : "-"
 name                     : &name "Lin Zheng"
 description              : &description "personal description"
