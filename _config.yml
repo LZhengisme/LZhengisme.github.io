@@ -84,9 +84,13 @@ author:
   avatar           : "profile.png"
   bio              : "I am a 4-th year undergrad student in the school of computer science and engineering, Sun Yat-sen University."
   location         : "Guangzhou, China"
+  links :
+    - label : "cv"
+      icon : "fas fa-alien"
+      url : "http://lzhengisme.github.io/files/cv_linzheng_dec2020.pdf"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "zhenglin6@mail2.sysu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/LZhengisme"
+  github           : "LZhengisme"
   google_plus      :
   keybase          :
   instagram        :
