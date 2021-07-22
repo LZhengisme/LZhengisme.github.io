@@ -10,7 +10,7 @@ redirect_from:
 
 
 # About me
-I am currently a final-year undergraduate in the School of Computer Science and Engineering, Sun Yat-sen University, supervised by [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). I will be a Ph.D. student in the Department of Computer Science at the University of Hong Kong (HKU) from Fall 2021, under the supervision of [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/) and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). My research interests include machine learning and natural language processing, in particular latent variable models, structured prediction and their applications on natural language.
+I am a first-year Ph.D. student in the Department of Computer Science at the University of Hong Kong (HKU), supervised by [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/) and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). Recently, I received my Bachelor degree in the School of Computer Science and Engineering, [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm), working with [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests include machine learning, probabilistic graphical models and natural language processing.
 
 <!-- ## News -->
 
