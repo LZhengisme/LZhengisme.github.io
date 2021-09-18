@@ -81,17 +81,17 @@ analytics:
 # Site Author
 author:
   name             : "Lin Zheng"
-  avatar           : "profile.png"
-  bio              : "An undergrad in the School of Computer Science and Engineering, Sun Yat-sen University."
-  location         : "Guangzhou, China"
+  avatar           : "linzheng.png"
+  bio              : "First year Ph.D. student @ HKU"
+  location         : "Hong Kong, China"
   # links:
   # - label: "CV"
   #   icon: "fas fa-alien"
   #   url: "http://lzhengisme.github.io/files/cv_linzheng_dec2020.pdf"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "zhenglin6@mail2.sysu.edu.cn"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=tlchIJIAAAAJ
+  email            : "linzheng@connect.hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
