@@ -29,7 +29,7 @@ I am a first-year Ph.D. student at the Department of Computer Science in the Uni
   <b>Lin Zheng</b>, <a href="https://lividwo.github.io/zywu.github.io/">Zhiyong Wu</a> and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> (ACL'2021) <a href="https://aclanthology.org/2021.acl-long.45.pdf">[PDF]</a> <a href="https://github.com/LZhengisme/CODA">[code]</a> 
 
 - Generative Semantic Hashing Enhanced via Boltzmann Machines <br> 
-  <b>Lin Zheng</b>, Qinliang Su, Dinghan Shen, Changyou Chen (ACL'2020) <a href="https://www.aclweb.org/anthology/2020.acl-main.71.pdf">[PDF]</a> <a href="https://github.com/LZhengisme/CorrelatedSemanticHashing">[code]</a> 
+  <b>Lin Zheng</b>, <a href="https://cse.sysu.edu.cn/content/3796">Qinliang Su</a>, <a href="https://sites.google.com/view/dinghanshen">Dinghan Shen</a>, <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> (ACL'2020) <a href="https://www.aclweb.org/anthology/2020.acl-main.71.pdf">[PDF]</a> <a href="https://github.com/LZhengisme/CorrelatedSemanticHashing">[code]</a> 
 
 
 
