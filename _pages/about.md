@@ -10,12 +10,16 @@ redirect_from:
 
 
 # About me
-I am a first-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/) and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). Recently, I received my Bachelor degree in the School of Computer Science and Engineering, [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm), working with [Qinliang Su](http://sdcs.sysu.edu.cn/content/3796). My research interests include machine learning and probabilistic graphical models.
+I am a second-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/) and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). Recently, I received my Bachelor degree in the School of Computer Science and Engineering, [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm), working with [Qinliang Su](https://scholar.google.com/citations?hl=en&user=cuIweygAAAAJ&view_op=list_works&sortby=pubdate). My research interests include machine learning and probabilistic graphical models.
 
 <!-- ## News -->
 
 
 ## Publications
+
+- Efficient Attention via Control Variates <br> 
+  <b>Lin Zheng</b>, <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en">Jianbo Yuan</a> <a href="https://chongw.github.io">Chong Wang</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
+  In International Conference on Learning Representations (ICLR), 2023 (<b>oral</b>) <a href="https://openreview.net/forum?id=G-uNfHKrj46">[PDF]</a>
 
 - Linear complexity randomized self-attention mechanism <br> 
   <b>Lin Zheng</b>, <a href="https://chongw.github.io">Chong Wang</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
@@ -35,7 +39,7 @@ I am a first-year Ph.D. student at the Department of Computer Science in the Uni
 
 ## Teaching
 
-- Spring 2022: TA for <a href="https://nlp.cs.hku.hk/comp3314/">COMP3314B Machine Learning</a>
+- Spring 2022, Spring 2023: TA for <a href="https://nlp.cs.hku.hk/comp3314-spring2023/">COMP3314B Machine Learning</a>
 
 ## Professional Services
 
