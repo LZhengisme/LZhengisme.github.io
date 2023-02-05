@@ -18,7 +18,7 @@ I am a second-year Ph.D. student at the Department of Computer Science in the Un
 ## Publications
 
 - Efficient Attention via Control Variates <br> 
-  <b>Lin Zheng</b>, <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en">Jianbo Yuan</a> <a href="https://chongw.github.io">Chong Wang</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
+  <b>Lin Zheng</b>, <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en">Jianbo Yuan</a>, <a href="https://chongw.github.io">Chong Wang</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
   In International Conference on Learning Representations (ICLR), 2023 (<b>oral</b>) <a href="https://openreview.net/forum?id=G-uNfHKrj46">[PDF]</a> <a href="https://github.com/LZhengisme/efficient-attention">[code]</a>
 
 - Linear Complexity Randomized Self-attention Mechanism <br> 
@@ -30,11 +30,11 @@ I am a second-year Ph.D. student at the Department of Computer Science in the Un
   In International Conference on Machine Learning (ICML), 2022 <a href="https://arxiv.org/pdf/2110.02453.pdf">[PDF]</a>
 
 - Cascaded Head-colliding Attention <br> 
-  <b>Lin Zheng</b>, <a href="https://lividwo.github.io/zywu.github.io/">Zhiyong Wu</a> and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
+  <b>Lin Zheng</b>, <a href="https://lividwo.github.io/zywu.github.io/">Zhiyong Wu</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
   In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), 2021 <a href="https://aclanthology.org/2021.acl-long.45.pdf">[PDF]</a> <a href="https://github.com/LZhengisme/CODA">[code]</a> 
 
 - Generative Semantic Hashing Enhanced via Boltzmann Machines <br> 
-  <b>Lin Zheng</b>, <a href="https://cse.sysu.edu.cn/content/3796">Qinliang Su</a>, <a href="https://sites.google.com/view/dinghanshen">Dinghan Shen</a>, <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> <br> 
+  <b>Lin Zheng</b>, <a href="https://cse.sysu.edu.cn/content/3796">Qinliang Su</a>, <a href="https://sites.google.com/view/dinghanshen">Dinghan Shen</a>, and <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> <br> 
   In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), 2020 <a href="https://www.aclweb.org/anthology/2020.acl-main.71.pdf">[PDF]</a> <a href="https://github.com/LZhengisme/CorrelatedSemanticHashing">[code]</a> 
 
 ## Teaching
