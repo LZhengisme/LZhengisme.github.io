@@ -19,11 +19,11 @@ I am a second-year Ph.D. student at the Department of Computer Science in the Un
 
 - Efficient Attention via Control Variates <br> 
   <b>Lin Zheng</b>, <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en">Jianbo Yuan</a>, <a href="https://chongw.github.io">Chong Wang</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
-  In International Conference on Learning Representations (ICLR), 2023 (<b>oral</b>) <a href="https://openreview.net/forum?id=G-uNfHKrj46">[PDF]</a>
+  In International Conference on Learning Representations (ICLR), 2023 (<b>oral</b>) <a href="https://openreview.net/forum?id=G-uNfHKrj46">[PDF]</a> <a href="https://github.com/LZhengisme/efficient-attention">[code]</a>
 
 - Linear Complexity Randomized Self-attention Mechanism <br> 
   <b>Lin Zheng</b>, <a href="https://chongw.github.io">Chong Wang</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
-  In International Conference on Machine Learning (ICML), 2022 <a href="https://arxiv.org/pdf/2204.04667.pdf">[PDF]</a>
+  In International Conference on Machine Learning (ICML), 2022 <a href="https://arxiv.org/pdf/2204.04667.pdf">[PDF]</a> <a href="https://github.com/LZhengisme/efficient-attention">[code]</a>
 
 - Ripple Attention for Visual Perception with Sub-quadratic Complexity <br>
   <b>Lin Zheng</b>, Huijie Pan, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
