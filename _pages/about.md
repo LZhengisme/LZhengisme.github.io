@@ -17,11 +17,11 @@ I am a second-year Ph.D. student at the Department of Computer Science in the Un
 ## Preprints
 
 - A Reparameterized Discrete Diffusion Model for Text Generation <a href="https://arxiv.org/pdf/2302.05737.pdf">[pdf]</a> <a href="https://github.com/HKUNLP/reparam-discrete-diffusion">[code]</a> <br>
-  <b>Lin Zheng</b>, Jianbo Yuan, Lei Yu, and Lingpeng Kong <br>
+  <b>Lin Zheng</b>, <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en">Jianbo Yuan</a>, <a href="https://www.cs.ox.ac.uk/people/lei.yu/">Lei Yu</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
   arXiv:2302.05737, 2023
 
 - CAB: Comprehensive Attention Benchmarking on Long Sequence Modeling <a href="https://arxiv.org/pdf/2210.07661.pdf">[pdf]</a> <a href="https://github.com/Shark-NLP/CAB">[code]</a> <br>
-  Jun Zhang, Shuyang Jiang, Jiangtao Feng, <b>Lin Zheng</b>, and Lingpeng Kong <br>
+  Jun Zhang, Shuyang Jiang, <a href="https://jiangtaofeng.github.io/">Jiangtao Feng</a>, <b>Lin Zheng</b>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
   arXiv:2210.07661, 2022
   
 
