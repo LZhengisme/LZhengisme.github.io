@@ -27,8 +27,12 @@ I am a third-year Ph.D. student at the Department of Computer Science in the Uni
 
 ## Publications
 
+- Attentive Multi-Layer Perceptron for Non-autoregressive Generation <a href="https://arxiv.org/pdf/2310.09512.pdf">[pdf]</a> <a href="https://github.com/Shark-NLP/AttentiveMLP">[code]</a> <br>
+  <a href="https://scholar.google.com/citations?user=slwTiOUAAAAJ"> Shuyang Jiang</a>, <a href="https://scholar.google.com/citations?user=19qq4hsAAAAJ"> Jun Zhang</a>, <a href="https://jiangtaofeng.github.io/">Jiangtao Feng</a>, <b>Lin Zheng</b>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
+  In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD 2023), 2023
+
 - CAB: Comprehensive Attention Benchmarking on Long Sequence Modeling <a href="https://arxiv.org/pdf/2210.07661.pdf">[pdf]</a> <a href="https://github.com/Shark-NLP/CAB">[code]</a> <br>
-  Jun Zhang, Shuyang Jiang, <a href="https://jiangtaofeng.github.io/">Jiangtao Feng</a>, <b>Lin Zheng</b>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
+  <a href="https://scholar.google.com/citations?user=19qq4hsAAAAJ"> Jun Zhang</a>, <a href="https://scholar.google.com/citations?user=slwTiOUAAAAJ"> Shuyang Jiang</a>, <a href="https://jiangtaofeng.github.io/">Jiangtao Feng</a>, <b>Lin Zheng</b>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
   In International Conference on Machine Learning (ICML), 2023
 
 - Efficient Attention via Control Variates <a href="https://openreview.net/forum?id=G-uNfHKrj46">[pdf]</a> <a href="https://github.com/LZhengisme/efficient-attention">[code]</a> <br> 
