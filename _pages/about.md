@@ -10,16 +10,20 @@ redirect_from:
 
 
 # About me
-I am a second-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/), and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). Recently, I received my Bachelor degree in the School of Computer Science and Engineering, [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm), working with [Qinliang Su](https://scholar.google.com/citations?hl=en&user=cuIweygAAAAJ&view_op=list_works&sortby=pubdate). My research interests include machine learning and probabilistic graphical models.
+I am a third-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/), and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). Recently, I received my Bachelor degree in the School of Computer Science and Engineering, [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm), working with [Qinliang Su](https://scholar.google.com/citations?hl=en&user=cuIweygAAAAJ&view_op=list_works&sortby=pubdate). My research interests include machine learning and natural language processing.
 
 <!-- ## News -->
 
 ## Preprints
 
+- Self-Infilling Code Generation <a href="https://arxiv.org/pdf/2311.17972.pdf">[pdf]</a> <a href="https://github.com/LZhengisme/self-infilling">[code]</a> <br>
+  <b>Lin Zheng</b>, <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en">Jianbo Yuan</a>, <a href="https://zhreshold.github.io/">Zhi Zhang</a>, <a href="https://sites.google.com/site/hystatistics/home">Hongxia Yang</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
+  arXiv:2311.17972, 2023
+
+
 - A Reparameterized Discrete Diffusion Model for Text Generation <a href="https://arxiv.org/pdf/2302.05737.pdf">[pdf]</a> <a href="https://github.com/HKUNLP/reparam-discrete-diffusion">[code]</a> <br>
   <b>Lin Zheng</b>, <a href="https://scholar.google.com/citations?user=B1EhbCsAAAAJ&hl=en">Jianbo Yuan</a>, <a href="https://www.cs.ox.ac.uk/people/lei.yu/">Lei Yu</a>, and <a href="https://ikekonglp.github.io/">Lingpeng Kong</a> <br>
   arXiv:2302.05737, 2023
-
 
 ## Publications
 
