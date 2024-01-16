@@ -10,8 +10,7 @@ redirect_from:
 
 
 # About me
-I am a third-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/), and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). Recently, I received my Bachelor degree in the School of Computer Science and Engineering, [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm), working with [Qinliang Su](https://scholar.google.com/citations?hl=en&user=cuIweygAAAAJ&view_op=list_works&sortby=pubdate). 
-<!-- My research interests include machine learning and natural language processing. -->
+I am a third-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [Lingpeng Kong](https://ikekonglp.github.io/), [Ping Luo](http://luoping.me/), and [Ben Kao](https://www.cs.hku.hk/people/academic-staff/kao). Recently, I received my Bachelor degree in the School of Computer Science and Engineering, [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm), working with [Qinliang Su](https://scholar.google.com/citations?hl=en&user=cuIweygAAAAJ&view_op=list_works&sortby=pubdate). My research interests include machine learning and natural language processing.
 
 <!-- ## News -->
 
