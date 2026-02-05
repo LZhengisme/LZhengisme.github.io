@@ -63,123 +63,281 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-a {
-  color: #1772d0;
-  text-decoration: none;
+/* Reset and base */
+* {
+  box-sizing: border-box;
 }
 
-a:focus,
-a:hover {
-  color: #f09228;
-  text-decoration: none;
-}
-
-body,
-td,
-th,
-tr,
-p,
-a {
+body {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-}
-
-strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-}
-
-h2 {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #1a1a1a;
   margin: 0;
-  font-weight: normal;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  padding: 48px 24px;
+  background: #faf9f7;
 }
 
-.papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  font-weight: 700;
+/* Container */
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* Links */
+a {
+  color: #1a1a1a;
+  text-decoration: underline;
+  text-decoration-color: rgba(26, 26, 26, 0.4);
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.15s ease;
+}
+
+a:hover {
+  text-decoration-color: #1a1a1a;
+}
+
+/* Header section */
+header {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  margin-bottom: 56px;
+}
+
+.profile-photo {
+  flex-shrink: 0;
+}
+
+.profile-photo img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-info {
+  flex: 1;
+  padding-top: 8px;
 }
 
 .name {
-  padding-top: 20px;
-  margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
+  font-weight: 700;
+  margin: 0 0 12px 0;
+  letter-spacing: -0.01em;
 }
 
-.one {
-  width: 160px;
-  height: 160px;
-  position: relative;
-}
-
-.two {
-  width: 160px;
-  height: 160px;
-  position: absolute;
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
-}
-
-.fade {
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
-}
-
-span.highlight {
-  background-color: #ffffd0;
-}
-
-#publication-toggle {
+.links {
   display: flex;
-  border-bottom: 1.5px solid #c3c3c3; /* Separator line */
+  gap: 6px;
+  flex-wrap: wrap;
+  font-size: 15px;
 }
 
-#publication-toggle .toggle-btn {
+.links span {
+  color: #999;
+}
+
+/* Sections */
+section {
+  margin-bottom: 56px;
+}
+
+section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  color: #1a1a1a;
+  letter-spacing: -0.01em;
+}
+
+/* Bio */
+.bio p {
+  margin: 0;
+}
+
+/* Research section */
+.research-intro {
+  margin-bottom: 32px;
+}
+
+.research-intro p {
+  margin: 0 0 8px 0;
+}
+
+.research-intro p:last-child {
+  margin-bottom: 0;
   font-size: 13px;
-  font-weight: 500;
-  letter-spacing: .1rem;
-  padding: 7px 23px;
-  /* padding: 10px 15px 15px 15px; */
-  border: 1px solid #a0a0a0;
-  background-color: #f9f9f9;
-  margin-right: 3px; /* Increase the gap between buttons */
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-  margin-bottom: -1px;
-  border-bottom: none;
-  cursor: pointer;
+  color: #666;
 }
 
-#publication-toggle .toggle-btn.active {
-  background-color: #e6e6e6;
-}
-#publication-toggle .toggle-btn:hover {
-  border-color: #535353; /* Darker border on hover */
-  border-width: 1px; /* Thicker border on hover */
-}
-
-/* Adding a slight shadow on active button for depth */
-.toggle-btn.active {
-  background-color: #ddd; /* Active button background */
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
-  border-bottom: 2px solid transparent;
+/* Theme headings */
+.theme-heading {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #666;
+  margin: 48px 0 24px 0;
+  padding: 0;
+  border: none;
 }
 
-.toggle-btn:not(.active) {
-  border-bottom: 2px solid #ccc;
+.theme-heading:first-of-type {
+  margin-top: 8px;
 }
 
+/* Publication entries */
 .publication {
-  display: none; /* Initially hide all publications */
+  margin-bottom: 28px;
 }
 
-.publication.selected {
-  display: block; /* Show selected publications by default */
+.publication:last-child {
+  margin-bottom: 0;
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 15px;
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.pub-title a {
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  text-decoration: underline;
+  text-decoration-color: rgba(26, 26, 26, 0.4);
+}
+
+.pub-authors {
+  font-size: 14px;
+  color: #444;
+  margin-bottom: 4px;
+  line-height: 1.5;
+}
+
+.pub-authors a {
+  color: #444;
+  text-decoration: underline;
+  text-decoration-color: rgba(68, 68, 68, 0.3);
+  text-underline-offset: 2px;
+}
+
+.pub-authors a:hover {
+  text-decoration-color: rgba(68, 68, 68, 0.7);
+}
+
+.pub-venue {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 6px;
+}
+
+.pub-venue em {
+  font-style: italic;
+}
+
+.pub-venue .oral {
+  color: #c1362d;
+  font-weight: 700;
+}
+
+.pub-links {
+  font-size: 14px;
+}
+
+.pub-links a {
+  color: #666;
+  margin-right: 2px;
+}
+
+.pub-links a:hover {
+  color: #1a1a1a;
+}
+
+.pub-links span {
+  color: #bbb;
+  margin-right: 2px;
+}
+
+/* Scholar note */
+.scholar-note {
+  margin-top: 36px;
+  font-size: 14px;
+  color: #666;
+}
+
+/* Compact sections (teaching, service) */
+.compact-section {
+  margin-bottom: 40px;
+}
+
+.compact-section h2 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.compact-section p {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  margin-top: 56px;
+  padding-top: 24px;
+  border-top: 1px solid #e8e6e3;
+}
+
+footer p {
+  font-size: 13px;
+  color: #999;
+  text-align: right;
+  margin: 0;
+}
+
+footer a {
+  color: #999;
+}
+
+footer a:hover {
+  color: #666;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  body {
+    padding: 32px 20px;
+  }
+
+  header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 24px;
+  }
+
+  .profile-info {
+    text-align: center;
+    padding-top: 0;
+  }
+
+  .links {
+    justify-content: center;
+  }
+
+  .name {
+    font-size: 26px;
+  }
+
+  .profile-photo img {
+    width: 130px;
+    height: 130px;
+  }
 }
